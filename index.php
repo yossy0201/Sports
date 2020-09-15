@@ -4,7 +4,7 @@ $name = "イチロー";
 
 echo  $name;
 
-echo "<p>${name}はマリナーズで活躍しています。</p>";
+echo "<p>${name}はマリナーズで大活躍しています。</p>";
 
 $number = "51";
 
